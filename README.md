@@ -1,5 +1,5 @@
 # Python-Chart
-基于python的建议聊天室
+基于tkinter的简易聊天室
 
 ### 项目简述
 本次项目主要是通过利用Python中的tkinter模块设计出简单的聊天界面，实验Python中的tkinter模块是否能作为作局域网聊天的工具；其次研究Python中的网络编程socket模块，通过创建服务器与客户机，再加tkinter设计出的聊天界面，最终实现简单的局域网通信。
